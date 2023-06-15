@@ -13,7 +13,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ### Tecnologias que eu uso no meu dia a dia
 
