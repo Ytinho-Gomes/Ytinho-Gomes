@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&heigth=120&section=header"/>
-
-## Olá! Eu sou José Alves 👋🏽🙋🏽‍♂️
+  
+  <h1> Olá! Eu sou José Alves 👋🏽🙋🏽‍♂️</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ytinho_gomes/?theme=dark)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-alves-5852a6214/)
