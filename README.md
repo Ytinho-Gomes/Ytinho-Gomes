@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&heigth=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&heigth=120&section=header"/>
 
 ## Olá! Eu sou José Alves 👋🏽🙋🏽‍♂️
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ytinho_gomes/?theme=dark)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-alves-5852a6214/)
 
-<img align="left" width=47% src= "https://github-readme-stats.vercel.app/api?username=Ytinho-Gomes&show_icons=true&theme=dark"/>
+<img align="left" width=47% src= "https://github-readme-stats.vercel.app/api?username=Ytinho-Gomes&show_icons=true&theme=transparent"/>
 
 <br>
 <br>
@@ -30,4 +30,4 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&heigth=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&heigth=120&section=footer"/>
