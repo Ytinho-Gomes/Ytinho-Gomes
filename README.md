@@ -5,6 +5,16 @@
 
 <img align="left" src= "https://github-readme-stats.vercel.app/api?username=Ytinho-Gomes&show_icons=true&theme=radical"/>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ### Tecnologias que eu uso no meu dia a dia
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
